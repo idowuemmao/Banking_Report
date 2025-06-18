@@ -35,16 +35,19 @@ This project simulates how banks use enriched transactional data to:
 ### 🔹 Page 1: Customer Behavior Overview
 - Visualizes transaction volume by segment, product, and offer type
 - Shows how recommended offers align with transaction and income levels
+![Screenshot_3](https://github.com/user-attachments/assets/a567d26e-65c3-4b1c-8aff-a0e945b1dafb)
 
 ### 🔹 Page 2: Fee & Channel Insights
 - Timeline view of fees vs time, with segment breakdowns
 - Channel-level and branch-level fee drivers
 - Recommended offer vs fee association
+![Screenshot_4](https://github.com/user-attachments/assets/58f38a43-b71d-41c7-a78e-394dc3b908dd)
 
 ### 🔹 Drillthrough Page: Segment Deep Dive
 - Credit score analysis
 - Revenue per customer
 - City-wise customer value and risk profiling
+![Screenshot_5](https://github.com/user-attachments/assets/13dda4b7-19d4-41bb-a389-71d6cc9eb3e2)
 
 ---
 
