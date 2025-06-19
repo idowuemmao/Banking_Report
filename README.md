@@ -61,4 +61,6 @@ This project simulates how banks use enriched transactional data to:
 
 ---
 
+## EXPLORE PROJECT 
+[HERE](https://app.powerbi.com/view?r=eyJrIjoiZjRlYWIxZTAtMzFjNC00ZjAwLWI1ZTMtNjY0OGFiZTUwNTI1IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
